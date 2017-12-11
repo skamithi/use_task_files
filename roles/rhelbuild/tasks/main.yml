@@ -1,0 +1,8 @@
+---
+# tasks file for rhelbuild
+- include_tasks: task01.yml
+- include_tasks: task02.yml
+
+
+
+
