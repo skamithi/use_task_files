@@ -4,3 +4,5 @@
   connection: local
   roles:
      - role: rhelbuild
+       role01_action: " task01 formerly known as role01"
+       role02_action: " task02 formerly known as role02"

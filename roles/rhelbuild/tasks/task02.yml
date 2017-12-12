@@ -1,3 +1,5 @@
 ---
 - debug: msg="was formerly known as role02 now is task02"
+- debug: msg="task02 action is {{ role02_action }}"
+
 
